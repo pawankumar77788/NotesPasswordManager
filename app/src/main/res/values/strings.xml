@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Note Pass</string>
+    <string name="notes">Notes</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">Enter Email Address...</string>
+    <string name="Register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Create Account</string>
+    <string name="logout">logout</string>
+    <string name="NotesList">List of Notes</string>
+    <string name="inputTitle">Title</string>
+    <string name="inputNote">Jot Down Notes</string>
+    <string name="savenotedb">saveNoteDB</string>
+    <string name="no_data_available">No Notes Saved Yet. Try adding a Few on clicking the Add Button.</string>
+    <string name="EmptyView">Empty. Add Some Notes.</string>
+</resources>

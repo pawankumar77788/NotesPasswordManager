@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- This is the RecyclerView that will show the list of items -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/NotesRecycler"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <!-- This is the default TextView that will be shown when the RecyclerView is empty -->
+    <TextView
+        android:id="@+id/empty_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/EmptyView"
+        android:textColor="@color/design_default_color_on_primary"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:visibility="visible"/>
+
+</LinearLayout>
