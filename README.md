@@ -1,0 +1,16 @@
+# NotesPasswordManager
+Android on Java Application to implement a similar app of KeepNotes from Google integrated with a way to save passwords locally to access through encryption.
+![Screenshot_2023-03-15-15-13-02-15](https://user-images.githubusercontent.com/69047063/225511198-8e168b1a-f61f-480f-a096-b381c0f1254f.png)
+![Screenshot_2023-03-15-15-12-43-36](https://user-images.githubusercontent.com/69047063/225511203-a63d0ca8-a07b-4830-89dc-e76a5a80fea4.png)
+![Screenshot_2023-03-15-15-12-10-78](https://user-images.githubusercontent.com/69047063/225511205-30573b9a-3f8f-40f3-b2fd-6c0617d75599.png)
+![Screenshot_2023-03-15-15-11-10-02](https://user-images.githubusercontent.com/69047063/225511208-fa38e240-8233-427e-8e88-7303d8c2a254.png)
+![Screenshot_2023-03-15-15-10-59-97](https://user-images.githubusercontent.com/69047063/225511210-d6e253f9-866c-4cec-8c05-e4fdc166ffb8.png)
+![Screenshot_2023-03-15-15-10-32-34](https://user-images.githubusercontent.com/69047063/225511213-1699b4dd-6ecd-4557-9560-268c4cdcd318.png)
+![Screenshot_2023-03-15-15-10-27-45](https://user-images.githubusercontent.com/69047063/225511215-6f56a4a6-6bf1-4172-a851-445a3593b7fc.png)
+![Screenshot_2023-03-15-15-10-12-41](https://user-images.githubusercontent.com/69047063/225511217-2b9f1294-53c8-4116-9deb-c00a6bf503f6.png)
+![Screenshot_2023-03-15-15-10-07-35](https://user-images.githubusercontent.com/69047063/225511220-f7539320-4140-4142-a3e9-25f41ba83760.png)
+![Screenshot_2023-03-15-15-10-02-59](https://user-images.githubusercontent.com/69047063/225511221-8b110eb6-923f-43ba-915b-619b494b5c14.png)
+![Screenshot_2023-03-15-15-09-31-57](https://user-images.githubusercontent.com/69047063/225511222-cf4c39c5-51e8-4c4b-8b9d-c13af3e43ae3.png)
+![Screenshot_2023-03-15-15-09-27-19](https://user-images.githubusercontent.com/69047063/225511225-e46bbddb-0806-4e73-939a-c36c8d0cc420.png)
+![Screenshot_2023-03-15-15-13-12-94](https://user-images.githubusercontent.com/69047063/225511228-b30f4e71-11ff-43dd-a274-e7c125cb19d3.png)
+![Screenshot_2023-03-15-15-13-08-49](https://user-images.githubusercontent.com/69047063/225511230-f44f57d7-e4ef-4b3b-84de-d0863161ddb0.png)
